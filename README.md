@@ -6,12 +6,12 @@
 
 **Diensteanbieter / Entwickler:**
 Markus Nübel
-[Deine Straße und Hausnummer]
-[Deine PLZ und Ort]
+Bastionstr. 55
+59555 Lippstadt
 Deutschland
 
 **Kontakt:**
-E-Mail: [Deine E-Mail-Adresse für Support]
+E-Mail: support@gridiron-iq.de
 Website: https://github.com/nuebelm
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**
@@ -53,8 +53,8 @@ GridironIQ arbeitet nach dem Prinzip **"Privacy by Design"**. Die App nutzt kein
 - **Hinweis:** Der Inhalt der Zwischenablage wird ausschließlich lokal im Arbeitsspeicher deines Geräts analysiert und niemals an externe Server gesendet oder dauerhaft gespeichert.
 - **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (Berechtigtes Interesse an einer benutzerfreundlichen Bedienung).
 
-#### 3. Drittanbieter-Schnittstellen (Sleeper & LLM-Provider)
-Wenn du Analysen in der App durchführst, baut dein Endgerät direkte Verbindungen zu folgenden Drittanbietern auf:
+#### 3. Drittanbieter-Schnittstellen (Sleeper, LLM-Provider & FantasyCalc)
+Wenn du Analysen oder Marktwerte in der App abrufst, baut dein Endgerät direkte Verbindungen zu folgenden Drittanbietern auf:
 
 a) **Sleeper API (Roster & Liga-Daten)**
 - **Daten:** Öffentlich zugängliche Sleeper-User-IDs, Liga-IDs, Kader und Draft-Picks.
@@ -62,9 +62,14 @@ a) **Sleeper API (Roster & Liga-Daten)**
 - **Datenschutzerklärung:** https://sleeper.com/privacy
 
 b) **Google Gemini API / Groq API**
-- **Daten:** Anononymisierte/komprimierte Spielerdaten (Position, Alter, Depth-Chart) sowie dein lokaler API-Key. Es werden keine Klarnamen oder personenbezogenen Nutzerprofil-Daten übertragen.
+- **Daten:** Anonymisierte/komprimierte Spielerdaten (Position, Alter, Depth-Chart) sowie dein lokaler API-Key. Es werden keine Klarnamen oder personenbezogenen Nutzerprofil-Daten übertragen.
 - **Anbieter:** Google Ireland Limited / Groq, Inc.
 - **Datenschutzerklärung:** https://policies.google.com/privacy (Google) / https://groq.com/privacy-policy/ (Groq)
+
+c) **FantasyCalc API (Marktwerte & Trade-Daten)**
+- **Daten:** Abruf von aggregierten Spieler-Marktwerten und Trade-Ranglisten. Es werden hierbei **keinerlei personenbezogene Daten** der App-Nutzer an FantasyCalc übermittelt; es handelt sich um einen reinen Download von allgemeinen Marktwert-Listen.
+- **Anbieter:** FantasyCalc.com
+- **Hinweis zur Attribution:** Spielerwerte und Marktwerte bereitgestellt von FantasyCalc.com.
 
 ---
 
@@ -74,6 +79,11 @@ Nach der DSGVO stehen dir folgende Rechte zu:
 - **Recht auf Löschung** (Art. 17 DSGVO) – Du kannst jederzeit alle Daten löschen, indem du den App-Speicher auf deinem Smartphone zurücksetzt oder die App deinstallierst.
 - **Recht auf Einschränkung der Verarbeitung** (Art. 18 DSGVO)
 - **Recht auf Beschwerde** bei einer Datenschutz-Aufsichtsbehörde (Art. 77 DSGVO).
+
+---
+
+### E. Änderungen dieser Datenschutzerklärung
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Funktionalitäten in der Datenschutzerklärung umzusetzen.
 
 ---
 
