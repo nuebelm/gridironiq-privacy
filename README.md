@@ -77,11 +77,11 @@ Marktwerte und Rankings werden serverseitig aus aggregierten Sleeper-Liga-Daten 
 
 ### 7. Speicherdauer & Löschung
 
-Cloud-Daten bis zur Kontolöschung; lokale Daten bis App-Deinstallation oder Reset. Aggregierte NFL-Statistiken nach interner Retention-Policy.
+Cloud-Daten bis zur **Kontolöschung in der App** (Konto → Cloud-Konto → „Konto löschen“) oder auf schriftliche Anfrage an support@gridiron-iq.de. Bei Kontolöschung werden Auth-Konto, Profil, Scouting-Notizen, Tags, Trade-Flags und Einstellungen auf dem Server gelöscht; zugehörige lokale Daten auf dem Gerät werden ebenfalls entfernt. Lokale Gast-Daten ohne Cloud-Konto bis App-Deinstallation oder manueller Datensicherung/Reset. Aggregierte NFL-Statistiken nach interner Retention-Policy (keine personenbezogenen Nutzerdaten).
 
 ### 8. Deine Rechte
 
-Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit, Beschwerde bei einer Aufsichtsbehörde (Art. 15–22, 77 DSGVO).  
+Auskunft, Berichtigung, **Löschung** (Art. 17 DSGVO — direkt in der App unter Konto → Cloud-Konto → „Konto löschen“, mit E-Mail-Bestätigung), Einschränkung, Widerspruch, Datenübertragbarkeit (Export unter Einstellungen → Datensicherung), Beschwerde bei einer Aufsichtsbehörde (Art. 15–22, 77 DSGVO).  
 Kontakt: support@gridiron-iq.de
 
 ### 9. Änderungen
@@ -164,11 +164,11 @@ Market values and rankings are computed server-side from aggregated Sleeper leag
 
 ### 7. Retention & deletion
 
-Cloud data until account deletion; local data until app uninstall or reset. Aggregated NFL statistics per internal retention policy.
+Cloud data until **in-app account deletion** (Account → Cloud account → “Delete account”) or on written request to support@gridiron-iq.de. Account deletion removes auth account, profile, scouting notes, tags, trade flags, and settings on our server; related local data on the device is removed as well. Local guest data without a cloud account until app uninstall or manual backup/reset. Aggregated NFL statistics per internal retention policy (no personal user data).
 
 ### 8. Your rights
 
-Access, rectification, erasure, restriction, objection, portability, complaint to a supervisory authority (Arts. 15–22, 77 GDPR).  
+Access, rectification, **erasure** (GDPR Art. 17 — in the app under Account → Cloud account → “Delete account”, with email confirmation), restriction, objection, portability (export under Settings → Backup & Restore), complaint to a supervisory authority (Arts. 15–22, 77 GDPR).  
 Contact: support@gridiron-iq.de
 
 ### 9. Changes
